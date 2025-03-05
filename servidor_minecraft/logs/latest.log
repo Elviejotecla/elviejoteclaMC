@@ -27,3 +27,15 @@
 [16:14:04] [Server thread/INFO]: perrito-malvado joined the game
 [16:17:29] [Server thread/INFO]: perrito-malvado lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
 [16:17:29] [Server thread/INFO]: perrito-malvado left the game
+[16:20:39] [Server thread/INFO]: M1Abrams_Figue lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:20:39] [Server thread/INFO]: M1Abrams_Figue left the game
+[16:26:30] [Server thread/INFO]: M1Abrams_Figue[/127.117.95.167:35967] logged in with entity id 52537 at (529.3539196158403, 76.0, 170.46620421883702)
+[16:26:30] [Server thread/INFO]: M1Abrams_Figue joined the game
+[16:28:14] [Server thread/INFO]: perrito-malvado[/127.121.128.34:44649] logged in with entity id 55801 at (532.968753922178, 76.0, 171.28313824812784)
+[16:28:14] [Server thread/INFO]: perrito-malvado joined the game
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
+[16:29:02] [Server thread/WARN]: Boat moved wrongly!
