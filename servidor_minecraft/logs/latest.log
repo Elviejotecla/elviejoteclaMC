@@ -17,3 +17,9 @@
 [14:35:39] [Server thread/INFO]: M1Abrams_Figue joined the game
 [14:37:08] [Server thread/INFO]: <M1Abrams_Figue> gg
 [14:40:06] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:54:47] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:54:47] [Server thread/INFO]: perrito-malvado left the game
+[14:54:59] [Server thread/INFO]: perrito-malvado[/127.121.128.34:53995] logged in with entity id 18586 at (599.6875, 62.07326432466507, 123.07767850792837)
+[14:54:59] [Server thread/INFO]: perrito-malvado joined the game
+[14:55:07] [Server thread/WARN]: perrito-malvado moved wrongly!
+[15:13:06] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
