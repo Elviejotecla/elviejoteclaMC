@@ -23,3 +23,5 @@
 [14:54:59] [Server thread/INFO]: perrito-malvado joined the game
 [14:55:07] [Server thread/WARN]: perrito-malvado moved wrongly!
 [15:13:06] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[15:19:38] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[15:19:38] [Server thread/INFO]: perrito-malvado left the game
