@@ -19,3 +19,11 @@
 [15:54:45] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
 [15:54:59] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
 [16:06:56] [Server thread/WARN]: perrito-malvado moved too quickly! -0.43559813925241997,2.0013359791121417,9.919821016639645
+[16:13:40] [Server thread/WARN]: perrito-malvado moved too quickly! -8.880721145115217,1.044812420399012,5.07859485040089
+[16:14:04] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='You logged in from another location', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:14:04] [Server thread/INFO]: perrito-malvado left the game
+[16:14:04] [Server thread/WARN]: handleDisconnection() called twice
+[16:14:04] [Server thread/INFO]: perrito-malvado[/127.121.128.34:45821] logged in with entity id 42850 at (535.7876167145448, 76.00133597911214, 152.44294931236357)
+[16:14:04] [Server thread/INFO]: perrito-malvado joined the game
+[16:17:29] [Server thread/INFO]: perrito-malvado lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:17:29] [Server thread/INFO]: perrito-malvado left the game
