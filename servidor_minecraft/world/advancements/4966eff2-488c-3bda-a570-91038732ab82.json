@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-03-07 19:20:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-07 18:37:29 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-03-07 19:18:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-03-07 19:08:03 +0000"
@@ -80,6 +92,12 @@
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-03-07 19:31:58 +0000"
     },
     "done": true
   },
@@ -363,20 +381,34 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-03-07 19:30:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "shulker": "2025-03-07 19:30:42 +0000",
       "zombie_villager": "2025-03-07 19:10:36 +0000",
       "skeleton": "2025-03-07 18:57:59 +0000",
       "zombie": "2025-03-07 18:51:53 +0000",
       "witch": "2025-03-07 19:09:06 +0000",
       "spider": "2025-03-07 19:09:43 +0000",
-      "creeper": "2025-03-07 18:57:59 +0000"
+      "creeper": "2025-03-07 18:57:59 +0000",
+      "enderman": "2025-03-07 19:19:08 +0000"
     },
     "done": false
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-07 19:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-03-07 19:18:39 +0000"
     },
     "done": true
   },
@@ -479,6 +511,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-03-07 19:30:38 +0000"
     },
     "done": true
   },
