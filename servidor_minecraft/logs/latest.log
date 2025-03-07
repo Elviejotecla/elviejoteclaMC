@@ -38,3 +38,16 @@
 [21:18:15] [Server thread/INFO]: perrito-malvado left the game
 [21:18:18] [Server thread/INFO]: perrito-malvado[/127.121.128.34:57431] logged in with entity id 34449 at (551.5694263814727, 75.0, 135.69999998807907)
 [21:18:18] [Server thread/INFO]: perrito-malvado joined the game
+[21:24:32] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -498.38049083637134,44.0,-137.83958644567784
+[21:25:38] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:25:38] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[21:25:38] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -1991.6245090350653,7.233632006042477,-782.5235912931518
+[21:26:47] [Server thread/INFO]: Stopping the server
+[21:26:47] [Server thread/INFO]: Stopping server
+[21:26:47] [Server thread/INFO]: Saving players
+[21:26:47] [Server thread/INFO]: Saving worlds
+[21:26:47] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[21:26:47] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[21:26:47] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[21:26:47] [Server Shutdown Thread/INFO]: Stopping server
+[21:26:47] [Server Shutdown Thread/INFO]: Saving players
