@@ -65,6 +65,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-07 19:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-03-07 19:08:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-03-07 18:37:29 +0000"
@@ -80,6 +92,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-07 19:12:25 +0000"
     },
     "done": true
   },
@@ -105,9 +123,12 @@
     "criteria": {
       "deep_ocean": "2025-03-07 18:51:42 +0000",
       "beaches": "2025-03-07 18:51:29 +0000",
+      "desert_hills": "2025-03-07 19:15:08 +0000",
       "plains": "2025-03-07 18:37:29 +0000",
       "ocean": "2025-03-07 18:51:40 +0000",
-      "river": "2025-03-07 18:51:23 +0000"
+      "extreme_hills": "2025-03-07 19:15:01 +0000",
+      "river": "2025-03-07 18:51:23 +0000",
+      "desert": "2025-03-07 19:15:02 +0000"
     },
     "done": false
   },
@@ -344,11 +365,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-03-07 19:10:36 +0000",
       "skeleton": "2025-03-07 18:57:59 +0000",
       "zombie": "2025-03-07 18:51:53 +0000",
+      "witch": "2025-03-07 19:09:06 +0000",
+      "spider": "2025-03-07 19:09:43 +0000",
       "creeper": "2025-03-07 18:57:59 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-07 19:12:25 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
@@ -431,6 +461,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-03-07 19:15:02 +0000"
     },
     "done": true
   },

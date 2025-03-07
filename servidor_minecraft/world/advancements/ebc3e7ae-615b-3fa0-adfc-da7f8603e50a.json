@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-07 19:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-03-07 18:48:21 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-03-07 18:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-07 19:13:14 +0000"
     },
     "done": true
   },
@@ -329,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2025-03-07 19:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-03-07 18:37:18 +0000",
@@ -385,6 +403,7 @@
       "beaches": "2025-03-07 18:46:00 +0000",
       "plains": "2025-03-07 18:37:19 +0000",
       "ocean": "2025-03-07 18:51:41 +0000",
+      "extreme_hills": "2025-03-07 19:13:50 +0000",
       "river": "2025-03-07 18:45:51 +0000"
     },
     "done": false
@@ -398,6 +417,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-07 18:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-07 19:08:58 +0000"
     },
     "done": true
   },
@@ -545,9 +570,16 @@
       "skeleton": "2025-03-07 18:56:10 +0000",
       "zombie": "2025-03-07 18:56:09 +0000",
       "witch": "2025-03-07 19:01:47 +0000",
+      "spider": "2025-03-07 19:10:19 +0000",
       "creeper": "2025-03-07 18:56:12 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-07 19:13:14 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
