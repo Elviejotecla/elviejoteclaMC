@@ -1,27 +1,69 @@
-[17:57:09] [Server thread/INFO]: Starting minecraft server version 1.11.1
-[17:57:09] [Server thread/INFO]: Loading properties
-[17:57:09] [Server thread/INFO]: Default game type: SURVIVAL
-[17:57:09] [Server thread/INFO]: Generating keypair
-[17:57:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:57:10] [Server thread/INFO]: Using epoll channel type
-[17:57:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:57:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:57:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:57:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:57:10] [Server thread/INFO]: Preparing level "world"
-[17:57:10] [Server thread/INFO]: Preparing start region for level 0
-[17:57:11] [Server thread/INFO]: Preparing spawn area: 69%
-[17:57:11] [Server thread/INFO]: Done (1.538s)! For help, type "help" or "?"
-[17:58:14] [Server thread/INFO]: M1Abrams_Figue[/127.171.68.145:38939] logged in with entity id 182 at (1067.8237959943797, 151.0, -1265.699999988079)
-[17:58:14] [Server thread/INFO]: M1Abrams_Figue joined the game
-[17:58:26] [Server thread/INFO]: perrito-malvado[/127.121.128.34:34669] logged in with entity id 269 at (425.30000001192093, 64.0, 43.95908815259093)
-[17:58:26] [Server thread/INFO]: perrito-malvado joined the game
-[18:04:14] [Server thread/INFO]: <perrito-malvado> que paso
-[18:08:09] [Server thread/WARN]: perrito-malvado moved too quickly! -496.9458962122782,44.0,-138.95090218398246
-[18:08:30] [Server thread/WARN]: perrito-malvado moved too quickly! 0.00588712481840048,0.7016000592708593,17.654107076174753
-[18:09:16] [Server thread/WARN]: perrito-malvado moved too quickly! 1829.6852936909768,-79.0,702.1199165665228
-[18:09:33] [Server thread/WARN]: perrito-malvado moved too quickly! -1990.9065717876952,7.233632006042477,-782.5188115829866
-[18:09:33] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[18:09:33] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[18:11:45] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[18:11:45] [Server thread/INFO]: perrito-malvado left the game
+[18:35:45] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[18:35:45] [Server thread/INFO]: Loading properties
+[18:35:45] [Server thread/INFO]: Default game type: SURVIVAL
+[18:35:45] [Server thread/INFO]: Generating keypair
+[18:35:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:35:45] [Server thread/INFO]: Using epoll channel type
+[18:35:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:35:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:35:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:35:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:35:45] [Server thread/INFO]: Preparing level "world"
+[18:35:46] [Server thread/INFO]: Loaded 488 advancements
+[18:35:46] [Server thread/INFO]: Preparing start region for level 0
+[18:35:47] [Server thread/INFO]: Preparing spawn area: 37%
+[18:35:47] [Server thread/INFO]: Done (1.895s)! For help, type "help" or "?"
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildPickaxe is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.openInventory is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.potion is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.killCow is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.portal is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.acquireIron is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildWorkBench is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildSword is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.killEnemy is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildHoe is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.makeBread is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.blazeRod is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.bookcase is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.diamonds is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildBetterPickaxe is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.overkill is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.mineWood is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.theEnd2 is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.exploreAllBiomes is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.theEnd is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.buildFurnace is
+[18:37:18] [Server thread/WARN]: Invalid statistic in ./world/stats/ebc3e7ae-615b-3fa0-adfc-da7f8603e50a.json: Don't know what achievement.enchantments is
+[18:37:18] [Server thread/INFO]: perrito-malvado[/127.121.128.34:46631] logged in with entity id 173 at (547.5036214386613, 75.0, 161.56312509481907)
+[18:37:18] [Server thread/INFO]: perrito-malvado joined the game
+[18:37:18] [Server thread/INFO]: perrito-malvado has made the advancement [Suit Up]
+[18:37:18] [Server thread/INFO]: perrito-malvado has made the advancement [Cover Me With Diamonds]
+[18:37:18] [Server thread/INFO]: perrito-malvado has made the advancement [Stone Age]
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.buildPickaxe is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.openInventory is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.killCow is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.portal is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.acquireIron is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.buildWorkBench is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.buildSword is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.killEnemy is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.blazeRod is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.diamonds is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.buildBetterPickaxe is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.mineWood is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.theEnd2 is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.exploreAllBiomes is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.theEnd is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.buildFurnace is
+[18:37:28] [Server thread/WARN]: Invalid statistic in ./world/stats/4966eff2-488c-3bda-a570-91038732ab82.json: Don't know what achievement.cookFish is
+[18:37:28] [Server thread/INFO]: M1Abrams_Figue[/127.171.68.145:40451] logged in with entity id 406 at (553.137190837807, 75.0, 131.30000001192093)
+[18:37:28] [Server thread/INFO]: M1Abrams_Figue joined the game
+[18:37:29] [Server thread/INFO]: M1Abrams_Figue has made the advancement [Cover Me With Diamonds]
+[18:37:29] [Server thread/INFO]: M1Abrams_Figue has made the advancement [Stone Age]
+[18:40:50] [Server thread/INFO]: perrito-malvado has made the advancement [Acquire Hardware]
+[18:41:37] [Server thread/INFO]: perrito-malvado has made the advancement [Diamonds!]
+[18:41:55] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
+[18:41:55] [Server thread/INFO]: perrito-malvado left the game
+[18:44:35] [Server thread/INFO]: perrito-malvado[/127.121.128.34:54727] logged in with entity id 11247 at (552.7187628045447, 75.0, 135.4928083968487)
+[18:44:35] [Server thread/INFO]: perrito-malvado joined the game
