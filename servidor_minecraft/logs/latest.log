@@ -24,3 +24,20 @@
 [14:00:46] [Server thread/INFO]: Found that the dragon has been killed in this world already.
 [14:06:17] [Server thread/INFO]: <M1Abrams_Figue> -319 -1486
 [14:12:23] [Server thread/WARN]: perrito-malvado moved wrongly!
+[14:15:19] [Server thread/INFO]: <M1Abrams_Figue> 127 -1267
+[14:19:09] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:19:09] [Server thread/INFO]: perrito-malvado left the game
+[14:20:37] [Server thread/INFO]: M1Abrams_Figue fell from a high place
+[14:21:43] [Server thread/INFO]: perrito-malvado[/127.121.128.34:45699] logged in with entity id 32809 at (-316.2345818709693, 145.5, -1415.8047699138267)
+[14:21:43] [Server thread/INFO]: perrito-malvado joined the game
+[14:22:08] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -497.5759767456915,44.0,-138.42157519077492
+[14:22:57] [Server thread/WARN]: perrito-malvado moved too quickly! -0.021810244652442634,0.7461092740512356,-10.097586714590989
+[14:22:57] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 1829.8097820694957,-79.0,702.5065213717165
+[14:23:05] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -1991.585415012566,7.1875,-782.5310004129121
+[14:25:16] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:25:23] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:25:26] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:27:27] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:27:30] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:31:19] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
+[14:32:06] [Server thread/WARN]: perrito-malvado moved wrongly!
