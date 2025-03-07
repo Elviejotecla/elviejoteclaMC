@@ -41,3 +41,17 @@
 [14:27:30] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
 [14:31:19] [Server thread/WARN]: M1Abrams_Figue moved wrongly!
 [14:32:06] [Server thread/WARN]: perrito-malvado moved wrongly!
+[14:34:57] [Server thread/INFO]: <M1Abrams_Figue> 127 -1267
+[14:37:24] [Server thread/INFO]: perrito-malvado lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:37:24] [Server thread/INFO]: perrito-malvado left the game
+[14:37:26] [Server thread/INFO]: perrito-malvado[/127.121.128.34:33169] logged in with entity id 39108 at (-268.3432284826269, 60.0, -1544.1996649590724)
+[14:37:26] [Server thread/INFO]: perrito-malvado joined the game
+[14:37:58] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:37:58] [Server thread/INFO]: perrito-malvado left the game
+[14:38:15] [Server thread/INFO]: perrito-malvado[/127.121.128.34:37129] logged in with entity id 39279 at (-269.7381114585863, 60.0, -1543.105099362297)
+[14:38:15] [Server thread/INFO]: perrito-malvado joined the game
+[14:39:48] [Server thread/INFO]: perrito-malvado lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[14:39:48] [Server thread/INFO]: perrito-malvado left the game
+[14:41:05] [Server thread/INFO]: perrito-malvado[/127.121.128.34:50307] logged in with entity id 39850 at (-323.6903376600718, 60.0, -1554.3639478051996)
+[14:41:05] [Server thread/INFO]: perrito-malvado joined the game
+[14:41:58] [Server thread/INFO]: <M1Abrams_Figue> 127 -1267
