@@ -562,6 +562,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-03-07 20:52:18 +0000",
       "deep_ocean": "2025-03-07 18:51:42 +0000",
       "beaches": "2025-03-07 18:51:29 +0000",
       "desert_hills": "2025-03-07 19:15:08 +0000",
@@ -720,6 +721,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-03-07 20:50:56 +0000"
     },
     "done": true
   },
