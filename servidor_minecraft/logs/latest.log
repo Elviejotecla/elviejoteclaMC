@@ -17,3 +17,11 @@
 [17:58:26] [Server thread/INFO]: perrito-malvado[/127.121.128.34:34669] logged in with entity id 269 at (425.30000001192093, 64.0, 43.95908815259093)
 [17:58:26] [Server thread/INFO]: perrito-malvado joined the game
 [18:04:14] [Server thread/INFO]: <perrito-malvado> que paso
+[18:08:09] [Server thread/WARN]: perrito-malvado moved too quickly! -496.9458962122782,44.0,-138.95090218398246
+[18:08:30] [Server thread/WARN]: perrito-malvado moved too quickly! 0.00588712481840048,0.7016000592708593,17.654107076174753
+[18:09:16] [Server thread/WARN]: perrito-malvado moved too quickly! 1829.6852936909768,-79.0,702.1199165665228
+[18:09:33] [Server thread/WARN]: perrito-malvado moved too quickly! -1990.9065717876952,7.233632006042477,-782.5188115829866
+[18:09:33] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:09:33] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[18:11:45] [Server thread/INFO]: perrito-malvado lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:11:45] [Server thread/INFO]: perrito-malvado left the game
