@@ -1,70 +1,15 @@
-[14:36:02] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[14:36:02] [Server thread/INFO]: Loading properties
-[14:36:02] [Server thread/INFO]: Default game type: SURVIVAL
-[14:36:02] [Server thread/INFO]: Generating keypair
-[14:36:02] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:36:02] [Server thread/INFO]: Using epoll channel type
-[14:36:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:36:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:36:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:36:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:36:02] [Server thread/INFO]: Preparing level "world"
-[14:36:02] [Server thread/INFO]: Loaded 488 advancements
-[14:36:02] [Server thread/INFO]: Preparing start region for level 0
-[14:36:03] [Server thread/INFO]: Preparing spawn area: 69%
-[14:36:04] [Server thread/INFO]: Done (1.589s)! For help, type "help" or "?"
-[14:36:13] [Server thread/INFO]: perrito-malvado[/127.121.128.34:43481] logged in with entity id 186 at (106.61219461678164, 1.0, 0.43256288452219344)
-[14:36:13] [Server thread/INFO]: perrito-malvado joined the game
-[14:36:13] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[14:36:13] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[14:36:25] [Server thread/INFO]: M1Abrams_Figue[/127.108.185.214:54447] logged in with entity id 280 at (136.28487782521063, 1.0, 0.41124204706884443)
-[14:36:25] [Server thread/INFO]: M1Abrams_Figue joined the game
-[14:55:48] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[14:55:48] [Server thread/INFO]: perrito-malvado left the game
-[14:55:50] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
-[14:55:50] [Server thread/INFO]: M1Abrams_Figue left the game
-[14:55:56] [Server thread/INFO]: perrito-malvado[/127.121.128.34:38181] logged in with entity id 2091 at (312.81793751758505, 1.5, -0.3000000119209288)
-[14:55:56] [Server thread/INFO]: perrito-malvado joined the game
-[14:56:25] [Server thread/INFO]: M1Abrams_Figue[/127.108.185.214:60205] logged in with entity id 2180 at (309.89717706498317, 1.0, -2.468264947468586)
-[14:56:25] [Server thread/INFO]: M1Abrams_Figue joined the game
-[14:57:10] [Server thread/INFO]: perrito-malvado was slain by Enderman
-[14:58:36] [Server thread/WARN]: perrito-malvado moved too quickly! -1992.1215866425819,7.078400001525878,-782.5144346058328
-[15:03:22] [Server thread/INFO]: perrito-malvado was slain by Enderman
-[15:04:53] [Server thread/WARN]: perrito-malvado moved too quickly! -1991.5868268282893,6.945106652967922,-782.3790936069247
-[15:24:13] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[15:24:13] [Server thread/INFO]: perrito-malvado left the game
-[15:24:15] [Server thread/INFO]: perrito-malvado[/127.121.128.34:56679] logged in with entity id 10308 at (311.18745258631543, 44.0, 15.680598798645477)
-[15:24:15] [Server thread/INFO]: perrito-malvado joined the game
-[15:42:58] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -497.0812283357699,44.0,-138.8067803188028
-[15:43:56] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 1829.9738473157208,-79.0,702.3860691266383
-[15:44:02] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -1991.2089682701871,6.945106652967922,-781.5012692219359
-[15:52:15] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[15:52:15] [Server thread/INFO]: perrito-malvado left the game
-[15:52:18] [Server thread/INFO]: perrito-malvado[/127.121.128.34:46793] logged in with entity id 24390 at (313.9045541536925, 4.0, 1.4596097738794875)
-[15:52:18] [Server thread/INFO]: perrito-malvado joined the game
-[16:10:25] [Server thread/INFO]: M1Abrams_Figue hit the ground too hard
-[16:11:55] [Server thread/INFO]: M1Abrams_Figue lost connection: You logged in from another location
-[16:11:55] [Server thread/INFO]: M1Abrams_Figue left the game
-[16:11:56] [Server thread/WARN]: handleDisconnection() called twice
-[16:11:56] [Server thread/INFO]: M1Abrams_Figue[/127.108.185.214:60469] logged in with entity id 67073 at (230.65370376138867, 118.0, 99.89555831444085)
-[16:11:56] [Server thread/INFO]: M1Abrams_Figue joined the game
-[16:12:06] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 1830.0612787782077,-79.0,702.5318680481525
-[16:13:42] [Server thread/INFO]: M1Abrams_Figue was slain by Enderman
-[16:14:53] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -1991.5228193040407,7.1875,-782.6112577252776
-[16:18:26] [Server thread/WARN]: perrito-malvado moved too quickly! 1829.6684716775299,-79.0,702.4123144437392
-[16:18:33] [Server thread/WARN]: perrito-malvado moved too quickly! -1991.7731714616384,7.233632006042477,-782.3154417812881
-[16:21:28] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[16:21:28] [Server thread/INFO]: perrito-malvado left the game
-[16:38:10] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
-[16:38:10] [Server thread/INFO]: M1Abrams_Figue left the game
-[16:38:16] [Server thread/INFO]: Stopping the server
-[16:38:16] [Server thread/INFO]: Stopping server
-[16:38:16] [Server thread/INFO]: Saving players
-[16:38:16] [Server thread/INFO]: Saving worlds
-[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[16:38:16] [Server Shutdown Thread/INFO]: Stopping server
-[16:38:16] [Server Shutdown Thread/INFO]: Saving players
-[16:38:16] [Server Shutdown Thread/INFO]: Saving worlds
-[16:38:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
+[17:14:04] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[17:14:04] [Server thread/INFO]: Loading properties
+[17:14:04] [Server thread/INFO]: Default game type: SURVIVAL
+[17:14:04] [Server thread/INFO]: Generating keypair
+[17:14:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:14:04] [Server thread/INFO]: Using epoll channel type
+[17:14:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:14:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:14:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:14:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:14:05] [Server thread/INFO]: Preparing level "world"
+[17:14:05] [Server thread/INFO]: Loaded 488 advancements
+[17:14:05] [Server thread/INFO]: Preparing start region for level 0
+[17:14:06] [Server thread/INFO]: Preparing spawn area: 47%
+[17:14:06] [Server thread/INFO]: Done (1.892s)! For help, type "help" or "?"
