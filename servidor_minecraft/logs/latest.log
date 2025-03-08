@@ -1,20 +1,25 @@
-[17:14:04] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[17:14:04] [Server thread/INFO]: Loading properties
-[17:14:04] [Server thread/INFO]: Default game type: SURVIVAL
-[17:14:04] [Server thread/INFO]: Generating keypair
-[17:14:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:14:04] [Server thread/INFO]: Using epoll channel type
-[17:14:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:14:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:14:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:14:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:14:05] [Server thread/INFO]: Preparing level "world"
-[17:14:05] [Server thread/INFO]: Loaded 488 advancements
-[17:14:05] [Server thread/INFO]: Preparing start region for level 0
-[17:14:06] [Server thread/INFO]: Preparing spawn area: 47%
-[17:14:06] [Server thread/INFO]: Done (1.892s)! For help, type "help" or "?"
-[17:31:30] [Server thread/INFO]: perrito-malvado[/127.121.128.34:54991] logged in with entity id 186 at (308.79987130033317, 4.0, 5.876302853935713)
-[17:31:30] [Server thread/INFO]: perrito-malvado joined the game
-[17:39:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[17:39:11] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[18:38:55] [Server thread/INFO]: perrito-malvado has made the advancement [Enchanter]
+[19:51:17] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[19:51:17] [Server thread/INFO]: Loading properties
+[19:51:17] [Server thread/INFO]: Default game type: SURVIVAL
+[19:51:17] [Server thread/INFO]: Generating keypair
+[19:51:17] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:51:17] [Server thread/INFO]: Using epoll channel type
+[19:51:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:51:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:51:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:51:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:51:17] [Server thread/INFO]: Preparing level "world"
+[19:51:17] [Server thread/INFO]: Loaded 488 advancements
+[19:51:17] [Server thread/INFO]: Preparing start region for level 0
+[19:51:18] [Server thread/INFO]: Preparing spawn area: 42%
+[19:51:19] [Server thread/INFO]: Done (1.809s)! For help, type "help" or "?"
+[19:52:53] [Server thread/INFO]: perrito-malvado[/127.121.128.34:45145] logged in with entity id 183 at (2068.6111017029402, 23.0, 802.7967799020552)
+[19:52:53] [Server thread/INFO]: perrito-malvado joined the game
+[19:52:55] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
+[19:52:55] [Server thread/INFO]: perrito-malvado left the game
+[19:53:51] [Server thread/INFO]: perrito-malvado[/127.121.128.34:35133] logged in with entity id 438 at (2068.6111017029402, 23.0, 802.7967799020552)
+[19:53:51] [Server thread/INFO]: perrito-malvado joined the game
+[19:55:36] [Server thread/INFO]: perrito-malvado has made the advancement [Not Today, Thank You]
+[19:56:34] [Server thread/WARN]: perrito-malvado moved too quickly! -1992.1445665403503,7.233632006042477,-782.5361418374213
+[19:56:35] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[19:56:35] [Server thread/INFO]: Found that the dragon has been killed in this world already.

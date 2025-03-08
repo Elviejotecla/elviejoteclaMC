@@ -806,6 +806,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-08 19:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-08 16:01:51 +0000"
@@ -1154,6 +1160,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-07 19:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2025-03-08 19:54:37 +0000"
     },
     "done": true
   },
