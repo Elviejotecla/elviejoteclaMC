@@ -55,3 +55,16 @@
 [16:18:33] [Server thread/WARN]: perrito-malvado moved too quickly! -1991.7731714616384,7.233632006042477,-782.3154417812881
 [16:21:28] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
 [16:21:28] [Server thread/INFO]: perrito-malvado left the game
+[16:38:10] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
+[16:38:10] [Server thread/INFO]: M1Abrams_Figue left the game
+[16:38:16] [Server thread/INFO]: Stopping the server
+[16:38:16] [Server thread/INFO]: Stopping server
+[16:38:16] [Server thread/INFO]: Saving players
+[16:38:16] [Server thread/INFO]: Saving worlds
+[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[16:38:16] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[16:38:16] [Server Shutdown Thread/INFO]: Stopping server
+[16:38:16] [Server Shutdown Thread/INFO]: Saving players
+[16:38:16] [Server Shutdown Thread/INFO]: Saving worlds
+[16:38:16] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/overworld
