@@ -1,105 +1,19 @@
-[12:32:46] [Server thread/INFO]: Loading properties
-[12:32:46] [Server thread/INFO]: Default game type: SURVIVAL
-[12:32:46] [Server thread/INFO]: Generating keypair
-[12:32:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:32:46] [Server thread/INFO]: Using epoll channel type
-[12:32:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:32:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:32:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:32:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:32:46] [Server thread/INFO]: Preparing level "world"
-[12:32:46] [Server thread/INFO]: Loaded 488 advancements
-[12:32:46] [Server thread/INFO]: Preparing start region for level 0
-[12:32:47] [Server thread/INFO]: Preparing spawn area: 78%
-[12:32:48] [Server thread/INFO]: Done (1.451s)! For help, type "help" or "?"
-[12:33:09] [Server thread/INFO]: M1Abrams_Figue[/127.108.185.214:39869] logged in with entity id 179 at (316.73652369950565, 1.0, -4.237500011920927)
-[12:33:09] [Server thread/INFO]: M1Abrams_Figue joined the game
-[12:34:02] [Server thread/INFO]: perrito-malvado[/127.121.128.34:35097] logged in with entity id 662 at (314.74325218802886, 1.0, -1.6749317345971733)
-[12:34:02] [Server thread/INFO]: perrito-malvado joined the game
-[12:37:14] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[12:37:14] [Server thread/INFO]: perrito-malvado left the game
-[12:37:18] [Server thread/INFO]: perrito-malvado[/127.121.128.34:44051] logged in with entity id 2104 at (315.7974913192075, 1.0, -1.1803465519447733)
-[12:37:18] [Server thread/INFO]: perrito-malvado joined the game
-[12:54:48] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[12:54:48] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[13:07:35] [Server thread/INFO]: <perrito-malvado> tzzzzzzzzzzzzzzzzzzzz
-[13:07:36] [Server thread/INFO]: <perrito-malvado> zzzzzzzzz
-[13:07:37] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzz
-[13:07:38] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzz
-[13:07:39] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzz
-[13:07:39] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzz
-[13:07:40] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzz
-[13:07:41] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzz
-[13:07:43] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzz
-[13:07:44] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzz
-[13:07:45] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzz
-[13:07:46] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzz
-[13:07:48] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzz
-[13:07:49] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzz
-[13:07:50] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzz
-[13:07:51] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzz
-[13:07:53] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzz
-[13:07:54] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzz
-[13:07:57] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:00] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:03] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:06] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:08] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:12] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:17] [Server thread/INFO]: <M1Abrams_Figue> gg
-[13:08:19] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:30] [Server thread/INFO]: <perrito-malvado> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[13:08:32] [Server thread/INFO]: <perrito-malvado> z
-[13:08:33] [Server thread/INFO]: <perrito-malvado> z
-[13:08:33] [Server thread/INFO]: <perrito-malvado> z
-[13:08:33] [Server thread/INFO]: <perrito-malvado> z
-[13:08:33] [Server thread/INFO]: <perrito-malvado> zz
-[13:08:33] [Server thread/INFO]: <perrito-malvado> z
-[13:08:34] [Server thread/INFO]: <perrito-malvado> z
-[13:08:34] [Server thread/INFO]: <perrito-malvado> z
-[13:08:34] [Server thread/INFO]: <perrito-malvado> z
-[13:08:35] [Server thread/INFO]: <perrito-malvado> z
-[13:24:35] [Server thread/INFO]: <perrito-malvado> z
-[13:24:36] [Server thread/INFO]: <perrito-malvado> z
-[13:24:36] [Server thread/INFO]: <perrito-malvado> z
-[13:24:36] [Server thread/INFO]: <perrito-malvado> z
-[13:24:36] [Server thread/INFO]: <perrito-malvado> z
-[13:24:36] [Server thread/INFO]: <perrito-malvado> z
-[13:24:37] [Server thread/INFO]: <perrito-malvado> z
-[13:24:37] [Server thread/INFO]: <perrito-malvado> z
-[13:24:37] [Server thread/INFO]: <perrito-malvado> z
-[13:24:37] [Server thread/INFO]: <perrito-malvado> z
-[13:24:37] [Server thread/INFO]: <perrito-malvado> z
-[13:24:38] [Server thread/INFO]: <perrito-malvado> z
-[13:24:38] [Server thread/INFO]: <perrito-malvado> zz
-[13:24:38] [Server thread/INFO]: perrito-malvado lost connection: Kicked for spamming
-[13:24:38] [Server thread/INFO]: perrito-malvado left the game
-[13:24:38] [Server thread/WARN]: handleDisconnection() called twice
-[13:24:44] [Server thread/INFO]: <M1Abrams_Figue> zz
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:45] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: perrito-malvado[/127.121.128.34:57815] logged in with entity id 53277 at (551.5, 75.0999984741211, 132.5)
-[13:24:46] [Server thread/INFO]: perrito-malvado joined the game
-[13:24:46] [Server thread/INFO]: <M1Abrams_Figue> z
-[13:24:46] [Server thread/INFO]: M1Abrams_Figue lost connection: Kicked for spamming
-[13:24:46] [Server thread/INFO]: M1Abrams_Figue left the game
-[13:24:54] [Server thread/INFO]: M1Abrams_Figue[/127.108.185.214:33185] logged in with entity id 53324 at (552.5, 75.0999984741211, 131.5)
-[13:24:54] [Server thread/INFO]: M1Abrams_Figue joined the game
-[13:25:07] [Server thread/INFO]: <M1Abrams_Figue> gg
-[13:27:25] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 16.96392388156403,3.8088738835494524,-4.931480012767295
-[13:40:32] [Server thread/INFO]: <M1Abrams_Figue> vg
-[13:42:29] [Server thread/WARN]: M1Abrams_Figue moved too quickly! -496.58226872833154,44.0,-138.94339391219822
-[13:43:22] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 1830.2842132558105,-79.0,702.4544147746369
-[13:45:45] [Server thread/WARN]: M1Abrams_Figue moved too quickly! 5.465008561381083,-17.731315869955267,0.4361032184139555
-[13:50:49] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
-[13:50:49] [Server thread/INFO]: M1Abrams_Figue left the game
-[13:51:05] [Server thread/INFO]: perrito-malvado lost connection: Disconnected
-[13:51:05] [Server thread/INFO]: perrito-malvado left the game
+[18:33:28] [Server thread/INFO]: Loading properties
+[18:33:28] [Server thread/INFO]: Default game type: SURVIVAL
+[18:33:28] [Server thread/INFO]: Generating keypair
+[18:33:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:33:28] [Server thread/INFO]: Using epoll channel type
+[18:33:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:33:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:33:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:33:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:33:28] [Server thread/INFO]: Preparing level "world"
+[18:33:28] [Server thread/INFO]: Loaded 488 advancements
+[18:33:28] [Server thread/INFO]: Preparing start region for level 0
+[18:33:29] [Server thread/INFO]: Preparing spawn area: 74%
+[18:33:29] [Server thread/INFO]: Done (1.423s)! For help, type "help" or "?"
+[18:35:59] [Server thread/INFO]: M1Abrams_Figue[/127.231.185.121:39471] logged in with entity id 179 at (315.3146389426222, 1.0, 3.2429440883650247)
+[18:35:59] [Server thread/INFO]: M1Abrams_Figue joined the game
+[18:37:41] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[18:37:41] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[18:40:57] [Server thread/INFO]: <M1Abrams_Figue> gg
