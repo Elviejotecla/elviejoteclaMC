@@ -21,3 +21,15 @@
 [18:46:41] [Server thread/INFO]: M1Abrams_Figue left the game
 [18:49:45] [Server thread/INFO]: M1Abrams_Figue[/127.231.185.121:50465] logged in with entity id 5631 at (686.6685014036804, 70.0, 7.690620660198384)
 [18:49:45] [Server thread/INFO]: M1Abrams_Figue joined the game
+[18:54:12] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
+[18:54:12] [Server thread/INFO]: M1Abrams_Figue left the game
+[18:54:30] [Server thread/INFO]: Stopping the server
+[18:54:30] [Server thread/INFO]: Stopping server
+[18:54:30] [Server thread/INFO]: Saving players
+[18:54:30] [Server thread/INFO]: Saving worlds
+[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[18:54:30] [Server Shutdown Thread/INFO]: Stopping server
+[18:54:30] [Server Shutdown Thread/INFO]: Saving players
+[18:54:30] [Server Shutdown Thread/INFO]: Saving worlds
