@@ -1,35 +1,16 @@
-[18:33:28] [Server thread/INFO]: Loading properties
-[18:33:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:33:28] [Server thread/INFO]: Generating keypair
-[18:33:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:33:28] [Server thread/INFO]: Using epoll channel type
-[18:33:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:33:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:33:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:33:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:33:28] [Server thread/INFO]: Preparing level "world"
-[18:33:28] [Server thread/INFO]: Loaded 488 advancements
-[18:33:28] [Server thread/INFO]: Preparing start region for level 0
-[18:33:29] [Server thread/INFO]: Preparing spawn area: 74%
-[18:33:29] [Server thread/INFO]: Done (1.423s)! For help, type "help" or "?"
-[18:35:59] [Server thread/INFO]: M1Abrams_Figue[/127.231.185.121:39471] logged in with entity id 179 at (315.3146389426222, 1.0, 3.2429440883650247)
-[18:35:59] [Server thread/INFO]: M1Abrams_Figue joined the game
-[18:37:41] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[18:37:41] [Server thread/INFO]: Found that the dragon has been killed in this world already.
-[18:40:57] [Server thread/INFO]: <M1Abrams_Figue> gg
-[18:46:41] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
-[18:46:41] [Server thread/INFO]: M1Abrams_Figue left the game
-[18:49:45] [Server thread/INFO]: M1Abrams_Figue[/127.231.185.121:50465] logged in with entity id 5631 at (686.6685014036804, 70.0, 7.690620660198384)
-[18:49:45] [Server thread/INFO]: M1Abrams_Figue joined the game
-[18:54:12] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
-[18:54:12] [Server thread/INFO]: M1Abrams_Figue left the game
-[18:54:30] [Server thread/INFO]: Stopping the server
-[18:54:30] [Server thread/INFO]: Stopping server
-[18:54:30] [Server thread/INFO]: Saving players
-[18:54:30] [Server thread/INFO]: Saving worlds
-[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
-[18:54:30] [Server thread/INFO]: Saving chunks for level 'world'/the_end
-[18:54:30] [Server Shutdown Thread/INFO]: Stopping server
-[18:54:30] [Server Shutdown Thread/INFO]: Saving players
-[18:54:30] [Server Shutdown Thread/INFO]: Saving worlds
+[12:12:34] [Server thread/INFO]: Loading properties
+[12:12:34] [Server thread/INFO]: Default game type: SURVIVAL
+[12:12:34] [Server thread/INFO]: Generating keypair
+[12:12:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:12:34] [Server thread/INFO]: Using epoll channel type
+[12:12:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:12:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:12:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:12:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:12:34] [Server thread/INFO]: Preparing level "world"
+[12:12:34] [Server thread/INFO]: Loaded 488 advancements
+[12:12:34] [Server thread/INFO]: Preparing start region for level 0
+[12:12:35] [Server thread/INFO]: Preparing spawn area: 54%
+[12:12:36] [Server thread/INFO]: Done (1.679s)! For help, type "help" or "?"
+[12:15:44] [Server thread/INFO]: perrito-malvado[/127.121.128.34:50925] logged in with entity id 178 at (552.4824578058775, 75.5625, 131.9694919081651)
+[12:15:44] [Server thread/INFO]: perrito-malvado joined the game
